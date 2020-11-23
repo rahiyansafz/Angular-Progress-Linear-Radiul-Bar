@@ -1,0 +1,26 @@
+.container {
+    width: 300px;
+    margin: 30px auto 0;
+    text-align: center;
+}
+.container h1{
+    font-weight: 400;
+}
+.input-filed-container{
+    width: 500px;
+    margin: 30px auto 0;
+    // overflow: overlay;
+    // text-align: center;
+}
+.card-title{
+    text-align: center;
+}
+.card-input-field{
+    width: 100%;
+}
+.card-field-divider{
+    margin-top: 10px;
+}
+.input-json-container{
+  float: right;
+}
